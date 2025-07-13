@@ -1,3 +1,59 @@
 {
-
+	"HEADER_LOADING":"ЗАГРУЗКА",
+	
+	"HEADER_MAPS":"КАРТЫ",
+	"HEADER_SELECTED_MAP":"ВЫБРАННАЯ КАРТА",
+	"THEME":"Тема",
+	"SKYBOX":"Небо",
+	"BILLBOARD":"Билборд",
+	"GRAVITY":"Гравитация",
+	"ADD_TO_FAVORITES":"Добавить в избранное",
+	"REMOVE_FROM_FAVORITES":"Удалить из избранного",
+	
+	"ALERT_OK":"Ок",
+	"ALERT_YES":"Да",
+	"ALERT_NO":"Нет",
+	
+	"ALERT_FIRST_ENTRY":"TLVK: RELOAD - это программа, позволяющая игрокам тестировать различные механики, карты, пушки и корпуса, а также использовать её для создания артов. Является переработанной версией Tanki Level Viewer Kit.",
+	"ALERT_QUIT":"Выйти из игры?",
+	"ALERT_CHANGE_LOCALIZATION":"Для смены языка требуется перезапуск. Перезапустить?",
+	"ALERT_DELETE_STORAGE":"Для удаления сохранения требуется перезапуск. Перезапустить?",
+	"ALERT_DELETE_RESOURCES":"Для удаления ресурсов требуется перезапуск. Перезапустить?",
+	
+	"MAIN_PANEL_BATTLES":"Битвы",
+	"MAIN_PANEL_GARAGE":"Гараж",
+	"MAIN_PANEL_MAP_EDITOR":"Редактор",
+	
+	"HEADER_MAIN_PANEL_SETTINGS":"НАСТРОЙКИ ПАНЕЛИ",
+	"MAIN_PANEL_PLAYER_NAME":"Ник",
+	"MAIN_PANEL_EXPERIENCE":"Количество опыта",
+	"MAIN_PANEL_CRYSTALS":"Количество кристаллов",
+	"MAIN_PANEL_PREMIUM":"Премиум",
+	"MAIN_PANEL_GEAR_SCORE":"Gear Score",
+	"MAIN_PANEL_RATING":"Рейтинг",
+	
+	"HEADER_SETTINGS":"НАСТРОЙКИ",
+	"SETTINGS_CATEGORY_GAME":"Игра",
+	"SETTINGS_CATEGORY_GRAPHICS":"Графика",
+	"SETTINGS_CATEGORY_CONTROLS":"Управление",
+	
+	"SETTINGS_SHOW_MAIN_PANEL":"Показывать панель статистики",
+	"SETTINGS_BUTTONS":"Кнопки",
+	"SETTINGS_CHANGE_LOCALIZATION":"Сменить язык",
+	"SETTINGS_DELETE_STORAGE":"Удалить сохранение",
+	"SETTINGS_DELETE_RESOURCES":"Удалить ресурсы",
+	"SETTINGS_ABOUT_GAME":"О разработчиках",
+	"SETTINGS_SOUND":"Звук",
+	"SETTINGS_TURN_ON_SOUND":"Включить звук",
+	"SETTINGS_VOLUME":"Громкость",
+	"SETTINGS_BG_SOUND":"Фоновый звук",
+	
+	"SETTINGS_MOUSE_CONTROLS":"Управление мышью",
+	"SETTINGS_MOUSE_SENSITIVITY":"Чувствительность мыши",
+	"SETTINGS_MOUSE_Y_INVERSE":"Инверсия мыши по вертикали",
+	"SETTINGS_MOUSE_Y_INVERSE_SHAFT":"Инверсия мыши по вертикали в снайперском режиме Шафта",
+	"SETTINGS_BACK_DRIVING_INVERSE":"Инверсное управление при движении назад",
+	"SETTINGS_RESTORE_DEFAULT_BINDINGS":"Восстановить кнопки по умолчанию",
+	"KEYBOARD_ACTION_FULL_SCREEN":"Включить/выключить полноэкранный режим",
+	"KEYBOARD_ACTION_OPEN_CONSOLE":"Открыть/закрыть консоль"
 }

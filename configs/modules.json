@@ -1,0 +1,173 @@
+[
+	{
+		"id":"fox",
+		"nameRU":"Лис",
+		"nameEN":"Fox",
+		"descriptionRU":"Защита: от Огнемёта.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Firebird resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"FIREBIRD"
+	},
+	{
+		"id":"badger",
+		"nameRU":"Барсук",
+		"nameEN":"Badger",
+		"descriptionRU":"Защита: от Фриза.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Freeze resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"FREEZE"
+	},
+	{
+		"id":"ocelot",
+		"nameRU":"Оцелот",
+		"nameEN":"Ocelot",
+		"descriptionRU":"Защита: от Изиды.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Isida resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"ISIDA"
+	},
+	{
+		"id":"weasel",
+		"nameRU":"Ласка",
+		"nameEN":"Weasel",
+		"descriptionRU":"Защита: от Теслы.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Tesla resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"TESLA"
+	},
+	{
+		"id":"wolf",
+		"nameRU":"Волк",
+		"nameEN":"Wolf",
+		"descriptionRU":"Защита: от Молота.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Hammer resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"HAMMER"
+	},
+	{
+		"id":"panther",
+		"nameRU":"Пантера",
+		"nameEN":"Panther",
+		"descriptionRU":"Защита: от Твинса.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Twins resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"TWINS"
+	},
+	{
+		"id":"lion",
+		"nameRU":"Лев",
+		"nameEN":"Lion",
+		"descriptionRU":"Защита: от Рикошета.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Ricochet resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"RICOCHET"
+	},
+	{
+		"id":"dolphin",
+		"nameRU":"Дельфин",
+		"nameEN":"Dolphin",
+		"descriptionRU":"Защита: от Смоки.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Smoky resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"SMOKY"
+	},
+	{
+		"id":"orka",
+		"nameRU":"Касатка",
+		"nameEN":"Orka",
+		"descriptionRU":"Защита: от Страйкера.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Striker resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"STRIKER"
+	},
+	{
+		"id":"shark",
+		"nameRU":"Акула",
+		"nameEN":"Shark",
+		"descriptionRU":"Защита: от Вулкана.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Vulcan resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"VULCAN"
+	},
+	{
+		"id":"grizzly",
+		"nameRU":"Гризли",
+		"nameEN":"Grizzly",
+		"descriptionRU":"Защита: от Грома.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Thunder resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"THUNDER"
+	},
+	{
+		"id":"vulture",
+		"nameRU":"Гриф",
+		"nameEN":"Vulture",
+		"descriptionRU":"Защита: от Скорпиона.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Scorpion resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"SCORPION"
+	},
+	{
+		"id":"falcon",
+		"nameRU":"Сокол",
+		"nameEN":"Falcon",
+		"descriptionRU":"Защита: от Рельсы.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Railgun resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"RAILGUN"
+	},
+	{
+		"id":"griffin",
+		"nameRU":"Грифон",
+		"nameEN":"Griffin",
+		"descriptionRU":"Защита: от Магнума.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Magnum resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"MAGNUM"
+	},
+	{
+		"id":"owl",
+		"nameRU":"Сова",
+		"nameEN":"Owl",
+		"descriptionRU":"Защита: от Гаусса.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Gauss resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"GAUSS"
+	},
+	{
+		"id":"eagle",
+		"nameRU":"Орёл",
+		"nameEN":"Eagle",
+		"descriptionRU":"Защита: от Шафта.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Shaft resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"SHAFT"
+	},
+	{
+		"id":"spider",
+		"nameRU":"Паук",
+		"nameEN":"Spider",
+		"descriptionRU":"Защита: от мин.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: Mine resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_standard_preview",
+		"resistance":"MINE"
+	},
+	{
+		"id":"armadillo",
+		"nameRU":"Броненосец",
+		"nameEN":"Armadillo",
+		"descriptionRU":"Защита: от критического урона.\n\nМодули усиливают защитные системы танка, снижая получаемый урон от критических попаданий.",
+		"descriptionEN":"Protection: Critical resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against critical damage.",
+		"previewResourceId":"module_special_preview",
+		"resistance":"CRITICAL_DAMAGE"
+	},
+	{
+		"id":"spectrum",
+		"nameRU":"Спектр",
+		"nameEN":"Spectrum",
+		"descriptionRU":"Защита: от всех пушек.\n\nМодули усиливают защитные системы танка, снижая урон от определённого вооружения.",
+		"descriptionEN":"Protection: All resistance.\n\nThe Protection Module is a special upgrade that enhances your tank's defenses with protections against specific turrets.",
+		"previewResourceId":"module_special_preview",
+		"resistance":"ALL"
+	}
+]
